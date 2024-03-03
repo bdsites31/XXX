@@ -11,6 +11,114 @@ body{
     animation: animate-banner 5s linear infinite;
 }
 
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 6s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 7s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 8s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 9s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 10s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 11s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 12s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 13s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 14s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 15s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 16s linear infinite;
+}
+
+.move_str {
+    display: inline-block;
+    color: #fff;
+    line-height: 18px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 17s linear infinite;
+}
+
 @keyframes animate-banner {
     0% {
       transform: translateX(0);
